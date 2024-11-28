@@ -9,7 +9,6 @@ public class Produto {
         this.categoria = categoria;
     }
 
-
     public String getNome() {
         return nome;
     }
